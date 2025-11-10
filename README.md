@@ -44,7 +44,7 @@ Installed aria2
 
 🛠️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/BHVC/telegram-drive-bot.git
+git clone https://github.com/BHVC/Telegram-Ultimate-Storage-Bot
 cd telegram-drive-bot
 
 2️⃣ Install dependencies
